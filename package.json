@@ -1,0 +1,28 @@
+{
+  "name": "@gykh/is-even",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-your-knowledge-here/is-even.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Sylvester Das",
+    "email": "sylvester.das@gmail.com",
+    "url": "https://www.sylvesterdas.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/get-your-knowledge-here/is-even/issues"
+  },
+  "homepage": "https://github.com/get-your-knowledge-here/is-even#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
